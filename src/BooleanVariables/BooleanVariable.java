@@ -1,5 +1,7 @@
 package BooleanVariables;
 
+// An instance of this class represents one Boolean variable, i.e., one named Boolean variable in the parsed Boolean expression
+
 public final class BooleanVariable {
    
 	private String name;
